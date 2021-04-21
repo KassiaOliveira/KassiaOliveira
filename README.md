@@ -44,7 +44,7 @@
  <br/><br/>
 
 <div align="center" >
-   <p>Obrigado pela visita ❤️:</p>
+   <p> Obrigado pela visita ❤️</p>
 </div>
  
 [linkedin]: https://www.linkedin.com/in/kassiaosilva
