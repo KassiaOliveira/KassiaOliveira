@@ -1,7 +1,7 @@
 <img align="right" width="400" src="https://blog.trello.com/hs-fs/hubfs/Trello%20Beginners/spongebob.gif?width=360&name=spongebob.gif" />
 
 
-### Oi eu sou a `Kassia!` bem-vindo ao meu perfil 👋
+### Olá eu sou a `Kassia!` Bem-vindo ao meu perfil 💻 👧
 
 
 - :rocket: Atualmente, estou realizando a formação Java e SQL com Oracle Database pela [Alura](https://www.alura.com.br).
@@ -44,7 +44,7 @@
  <br/><br/>
 
 <div align="center" >
-   <p>Obrigado pela visita :smiley:</p>
+   <p>Obrigado pela visita ❤️:</p>
 </div>
  
 [linkedin]: https://www.linkedin.com/in/kassiaosilva
