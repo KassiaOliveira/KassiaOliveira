@@ -23,6 +23,15 @@
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KassiaOliveira&layout=compact&theme=algolia" alt="Most used Language" />
 
+<div align="left">
+<span>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KassiaOliveira&show_icons=true&include_all_commits=true&count_private=true&theme=slateorange&icon_color=#268bd2&title_color=#268bd2&custom_title=Amaury Erik Nathan GitHub Stats"/>
+</span>
+
+
+---
+<br>
+
 ## Linguagens e Ferramentas:
 
 <div>
