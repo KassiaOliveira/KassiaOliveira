@@ -12,7 +12,6 @@
 
 ### Você pode me encontrar no: 
 [<img align="left" alt="haryel gillet ramalho | LinkedIn" width="40px" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-256.png" />][linkedin]
-[<img align="left" alt="haryel gillet ramalho | Github" width="40px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-512.png" />][github]
 [<img align="left" alt="haryel gillet ramalho | E-mail" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-256.png" />][gmail]
 
 <br />
@@ -57,6 +56,5 @@
 </div>
  
 [linkedin]: https://www.linkedin.com/in/kassiaosilva
-[github]: https://github.com/KassiaOliveira
 [gmail]: mailto:kassiaoliveira998@gmail.com
 
