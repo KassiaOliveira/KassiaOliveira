@@ -1,60 +1,42 @@
-<img align="right" width="400" src="https://blog.trello.com/hs-fs/hubfs/Trello%20Beginners/spongebob.gif?width=360&name=spongebob.gif" />
+<h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, sou a Kassia Oliveira</h1>
+<img align="right" width="200" src="https://64.media.tumblr.com/tumblr_lspq7gmIQg1qmbdfao1_500.gif" />
+- Engenheira de Dados Junior na <a href="https://www.linkedin.com/company/ntt-data-europe-latam/mycompany/">NTT DATA Europe & Latam</a><br>
+- Bacharela em Ciência da Computação pela <a href="https://www.linkedin.com/school/gfinu/">Universidade dos Guararapes</a><br>
+- Técnologo em Ciência de Dados pela <a href="https://www.linkedin.com/school/descomplicafaculdade/">Descomplica Faculdade Digital</a><br>
+
+<br><br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-KassiaOliveira-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=linkedin.com/in/kassiao/)](https://www.linkedin.com/in/kassiao/)
 
 
-### Olá eu sou a `Kassia!` Bem-vindo ao meu perfil 💻 👧
+## 💻 Tecnologias & Ferramentas
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-- :rocket: Atualmente, estou realizando a formação Java e SQL com Oracle Database pela [Alura](https://www.alura.com.br).
-- :mortar_board: Sou estudante de Ciências da Computação pela [UNIFG](https://unifg.edu.br/).
-
-<br />
+## 🚀 Atualmente estou aprendendo
 
 
-### Você pode me encontrar no: 
-[<img align="left" alt="haryel gillet ramalho | LinkedIn" width="40px" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-256.png" />][linkedin]
-[<img align="left" alt="haryel gillet ramalho | E-mail" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-256.png" />][gmail]
-
-<br />
-<br />
-<br />
-<br />
 
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KassiaOliveira&layout=compact&theme=algolia" alt="Most used Language" />
 
-<div align="left">
-<span>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KassiaOliveira&show_icons=true&include_all_commits=true&count_private=true&theme=slateorange&icon_color=#268bd2&title_color=#268bd2&custom_title=Amaury Erik Nathan GitHub Stats"/>
-</span>
+## ⚡ GitHub Status
 
+<!--![Github Stats](https://github-readme-stats.vercel.app/api?username=kassiao&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)-->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kassiao&hide=TeX&layout=compact) -->
 
----
-<br>
-
-## Linguagens e Ferramentas:
-
-<div>
-  <a href=""> 
-    <img align="left" alt="Java" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png" /> 
-  </a>
-  <a href="">
-    <img align="left" alt="SQL" width="40px" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/699166-icon-89-document-file-sql-256.png" />
-  </a>
-  <a src="">
-       <img align="left" alt="Git" width="40px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png" />
-    </a>
-  <a href="">
-    <img align="left" alt="Eclipse" width="40px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Eclipse.png" />
-  </a>
-  
-<div/>
-  
- <br/><br/>
-
-<div align="center" >
-   <p> Obrigado pela visita ❤️</p>
+ <div>
+  <a href="https://github.com/kassiao">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kassiao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassiao&layout=compact&langs_count=7&theme=dracula"/>
 </div>
- 
-[linkedin]: https://www.linkedin.com/in/kassiaosilva
-[gmail]: mailto:kassiaoliveira998@gmail.com
-
+<!--   ![Snake animation](https://github.com/rafaballerini/joaoalvesjf/blob/output/github-contribution-grid-snake.svg) -->
+  
